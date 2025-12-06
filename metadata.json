@@ -1,0 +1,5 @@
+{
+  "name": "ResumeArchitect AI",
+  "description": "An intelligent resume optimization dashboard that uses Google Search to analyze market trends and Gemini 3 Pro with deep reasoning to tailor your resume perfectly to a job description.",
+  "requestFramePermissions": []
+}
